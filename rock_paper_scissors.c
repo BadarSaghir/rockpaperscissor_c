@@ -81,5 +81,5 @@ int main()
 
     printf("Exiting the game. Goodbye!\n");
 
-    return 0;
+    // return 0;
 }
