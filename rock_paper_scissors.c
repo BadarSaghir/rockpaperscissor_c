@@ -8,7 +8,7 @@
 int main() 
 {
     srand(time(NULL));  
-`
+
     char userChoice, playAgain = 'y';
 
     while (playAgain == 'y' || playAgain == 'Y') {
